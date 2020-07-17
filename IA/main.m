@@ -2,12 +2,12 @@
 clc
 clear;
 %%
-popsize=30;%种群规模
+popsize=40;%种群规模
 memory_celllist=10;%记忆细胞容量
 MAXGEN=100;%迭代次数
 corss_rate=0.5;%交叉概率
 multate_rate=0.4;%变异概率
-alpha=0.4;%多样性参数
+alpha=0.8;%多样性参数,主要用于设置fitness和浓度对excellence的影响
 distribution_count=6;%配送中心数
 Initialpopsize=popsize+memory_celllist;%初始化种群数目
 %% 
@@ -24,9 +24,9 @@ end
 
 trace=[];   %记录每代最优个体适应度
 
-for k=1:MXGEN
+for k=1:MAXGEN
     %步骤三抗体群多样性评价
-    for i=1:M
+    for i=1:Initialpopsize
         individuals.fitness(i)=fitness(individuals.chrom(i,:)); %抗体序列的总费用计算
         individuals.concentration(i)=concentration(i,Initialpopsize,individuals); %抗体浓度计算
     end
@@ -42,14 +42,14 @@ for k=1:MXGEN
     fa_individuals=bestselect2(individuals,popsize);         %形成父代群 
     %步骤6：选择、交叉、变异操作，再加入记忆库中抗体，产生新种群
     individuals=Select(fa_individuals,popsize);       %选择
-    individuals.chrom=Cross(corss_rate,fa_individuals.chrom,popsize,length);  %交叉
-    individuals.chrom=Mutation(multate_rate,fa_individuals.chrom,popsize,length);  %变异
+    individuals.chrom=Cross(corss_rate,fa_individuals.chrom,popsize,distribution_count);  %交叉
+    individuals.chrom=Mutation(multate_rate,fa_individuals.chrom,popsize,distribution_count);  %变异
     %加入记忆库中抗体
     individuals=incorporate(individuals,popsize,bestindividuals,memory_celllist);
 end
 
 %找出最优解
-for i=1:M
+for i=1:Initialpopsize
     results(i)=fitness(individuals.chrom(i,:));
 end
 [D,index3]=min(results);

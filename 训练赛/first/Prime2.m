@@ -13,6 +13,7 @@ for i=1:rlen
 end
 V = 1:len;
 V_P = V - P;
+flag=0;
 % route = zeros(len,2);
 route_2=zeros(len,len);
 % for i=1:rlen
@@ -37,7 +38,7 @@ while k<len-1
 %             route_2(x(i),y(i))=1;
 %             continue;
 %         end
-        if  any(P==x(i)) && any(V_P==y(i))   %集合判断，关键！
+        if  any(P==x(i)) && any(V_P==y(i))    %集合判断，关键！
             P(1,y(i)) = y(i);
             V_P = V - P;
 %             route(k, :) = [x(i), y(i)];

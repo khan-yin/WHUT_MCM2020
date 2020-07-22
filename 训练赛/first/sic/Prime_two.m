@@ -25,9 +25,9 @@ k=rlen-1;
 while k<len-1
     p = P(P~=0);
     v = V_P(V_P~=0);
-%     if v==[]
-%         break;
-%     end
+    if isempty(v)
+        break;
+    end
     pv = min(min(d(p,v)));
     [x, y] = find(d==pv);
     for i=1:length(x)

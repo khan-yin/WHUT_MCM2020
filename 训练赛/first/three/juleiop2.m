@@ -160,3 +160,6 @@ dlen=13+number;
 [route_as,totaldis1]=Prime_one(kaka(1:dlen,1:dlen));
 gplot(route_as,caccell(1:dlen,:),'b-')
 fprintf("%f,%f\n",totaldis1,totaldis1+mintotaldis);
+hleg=legend('中心供水站','一级供水站','二级供水站','一级管道','二级管道','Location','NorthEastOutside');
+hold on;
+

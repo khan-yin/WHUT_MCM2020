@@ -37,6 +37,7 @@ min_r=0;
 mincount=0;
 minnumber=0;
 number=2;
+ress=[];
 for number=1:11
     julei_res=[];
     max=nchoosek(11,number);
@@ -85,14 +86,17 @@ for number=1:11
             totaldis=totaldis+totaldistance;
             
         end
-            t=ccl(new_route,number);
-            totaldis=totaldis+t;
+        t=ccl(new_route,number);
+        ress(i,:)=[number,totaldis];
+        totaldis=totaldis+t;
          if(isbad==0)%&&
+%              ress(i,:)=[number,totaldis];
              if totaldis<mintotaldis&&totaldis>0
                 mintotaldis=totaldis;
                 minnumber=number;
                 mincount=count;
              end
+             ress(i,:)=[minnumber,mintotaldis];
              fprintf("count=%d\n",count);
              fprintf("totaldis:%f,minnumber:%d,mincount:%d\n",mintotaldis,minnumber,mincount);
          end

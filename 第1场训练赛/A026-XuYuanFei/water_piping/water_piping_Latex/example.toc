@@ -1,0 +1,30 @@
+\contentsline {section}{\numberline {一、}问题重述}{3}{section.1}% 
+\contentsline {subsection}{\numberline {1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}问题背景}{3}{subsection.1.1}% 
+\contentsline {subsection}{\numberline {1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}问题提出}{3}{subsection.1.2}% 
+\contentsline {section}{\numberline {二、}问题分析}{4}{section.2}% 
+\contentsline {subsection}{\numberline {2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}问题一的分析}{4}{subsection.2.1}% 
+\contentsline {subsection}{\numberline {2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}问题二的分析}{4}{subsection.2.2}% 
+\contentsline {subsection}{\numberline {2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}问题三的分析}{4}{subsection.2.3}% 
+\contentsline {section}{\numberline {三、}符号说明}{5}{section.3}% 
+\contentsline {section}{\numberline {四、}模型假设}{6}{section.4}% 
+\contentsline {section}{\numberline {五、}问题1的模型建立与求解}{6}{section.5}% 
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}问题1的描述与分析}{6}{subsection.5.1}% 
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}问题1模型的建立}{6}{subsection.5.2}% 
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}Prim算法}{7}{subsubsection.5.2.1}% 
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}分级Prim算法}{8}{subsubsection.5.2.2}% 
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}问题1模型的求解}{8}{subsection.5.3}% 
+\contentsline {section}{\numberline {六、}问题2的模型建立与求解}{9}{section.6}% 
+\contentsline {subsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}问题2的描述与分析}{9}{subsection.6.1}% 
+\contentsline {subsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}问题2模型的建立}{9}{subsection.6.2}% 
+\contentsline {subsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}问题2模型的求解}{10}{subsection.6.3}% 
+\contentsline {section}{\numberline {七、}问题三的模型建立与求解}{10}{section.7}% 
+\contentsline {subsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}问题三的描述与分析}{10}{subsection.7.1}% 
+\contentsline {subsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}管道分支嫁接模型的建立}{11}{subsection.7.2}% 
+\contentsline {subsubsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}最优子结构定理}{11}{subsubsection.7.2.1}% 
+\contentsline {subsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}问题三模型的求解}{13}{subsection.7.3}% 
+\contentsline {section}{\numberline {八、}模型总结与评估}{17}{section.8}% 
+\contentsline {subsection}{\numberline {8\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}优点}{17}{subsection.8.1}% 
+\contentsline {subsection}{\numberline {8\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}缺点}{18}{subsection.8.2}% 
+\contentsline {section}{\numberline {九、}参考文献}{18}{section.9}% 
+\contentsline {section}{附录 \numberline {A}Python源代码}{19}{附录.a.A}% 
+\contentsline {section}{附录 \numberline {B}代码输出}{30}{附录.a.B}% 

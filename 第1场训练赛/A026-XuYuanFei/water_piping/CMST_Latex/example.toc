@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {一、}引言}{1}{section.1}% 
+\contentsline {subsubsection}{\numberline {1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}0\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}Prim算法}{2}{subsubsection.1.0.1}% 
+\contentsline {subsubsection}{\numberline {1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}0\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}分级Prim算法}{2}{subsubsection.1.0.2}% 
+\contentsline {subsection}{\numberline {1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}问题1模型的求解}{3}{subsection.1.1}% 
+\contentsline {section}{\numberline {二、}问题三的模型建立与求解}{4}{section.2}% 
+\contentsline {subsection}{\numberline {2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}问题三的描述与分析}{4}{subsection.2.1}% 
+\contentsline {subsection}{\numberline {2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}管道分支嫁接模型的建立}{4}{subsection.2.2}% 
+\contentsline {subsubsection}{\numberline {2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}最优子结构定理}{4}{subsubsection.2.2.1}% 
+\contentsline {subsection}{\numberline {2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}问题三模型的求解}{5}{subsection.2.3}% 
+\contentsline {section}{\numberline {三、}模型总结与评估}{8}{section.3}% 
+\contentsline {subsection}{\numberline {3\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}优点}{8}{subsection.3.1}% 
+\contentsline {subsection}{\numberline {3\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}缺点}{9}{subsection.3.2}% 
+\contentsline {section}{\numberline {四、}参考文献}{9}{section.4}% 
+\contentsline {section}{附录 \numberline {A}Python源代码}{10}{附录.a.A}% 

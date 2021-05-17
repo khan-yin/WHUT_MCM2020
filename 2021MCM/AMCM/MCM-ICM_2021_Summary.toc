@@ -1,0 +1,35 @@
+\contentsline {section}{\numberline {1}Introduction}{3}% 
+\contentsline {subsection}{\numberline {1.1}Problem Background}{3}% 
+\contentsline {subsection}{\numberline {1.2}Problems to be solved}{3}% 
+\contentsline {section}{\numberline {2}Preparation of the Models}{3}% 
+\contentsline {subsection}{\numberline {2.1}Assumptions}{3}% 
+\contentsline {subsection}{\numberline {2.2}Notations}{4}% 
+\contentsline {subsection}{\numberline {2.3}Data Filtration and Abnormal Value Processing}{4}% 
+\contentsline {section}{\numberline {3}Model Construction}{5}% 
+\contentsline {subsection}{\numberline {3.1}Quantitative description of hornets distribution}{5}% 
+\contentsline {subsubsection}{\numberline {3.1.1}Model building}{5}% 
+\contentsline {subsubsection}{\numberline {3.1.2}Model evaluation}{8}% 
+\contentsline {subsection}{\numberline {3.2}EfficientNet Convolutional Neural Network for Image Classification}{9}% 
+\contentsline {subsubsection}{\numberline {3.2.1}Low Quality Image Filtering}{9}% 
+\contentsline {subsubsection}{\numberline {3.2.2}Classification Target and Evaluation}{9}% 
+\contentsline {subsubsection}{\numberline {3.2.3}EfficientNet Structure}{10}% 
+\contentsline {subsubsection}{\numberline {3.2.4}Focal Loss Function}{12}% 
+\contentsline {subsubsection}{\numberline {3.2.5}K-fold Cross Validation}{13}% 
+\contentsline {subsubsection}{\numberline {3.2.6}Result and analysis}{14}% 
+\contentsline {subsection}{\numberline {3.3}Unverified Report Prediction}{14}% 
+\contentsline {subsubsection}{\numberline {3.3.1}Feature Engineering}{14}% 
+\contentsline {subsubsection}{\numberline {3.3.2}Xgboost Classification Model}{15}% 
+\contentsline {subsubsection}{\numberline {3.3.3}Result and analysis}{15}% 
+\contentsline {subsection}{\numberline {3.4}Priority Level of Unverified Reports}{17}% 
+\contentsline {subsection}{\numberline {3.5}Eradicated Evidence}{17}% 
+\contentsline {section}{\numberline {4}Senitivity Analysis}{17}% 
+\contentsline {subsection}{\numberline {4.1}Sensitivity of $\mu _i(X)$'s AUC to parameter $\gamma $}{18}% 
+\contentsline {subsection}{\numberline {4.2}Sensitivity of EfficientNet Metrics }{18}% 
+\contentsline {subsubsection}{\numberline {4.2.1}Image filter threshold $p_t$}{18}% 
+\contentsline {subsubsection}{\numberline {4.2.2}Number of folds in the cross-validation $k$}{19}% 
+\contentsline {section}{\numberline {5}Strengths and Weaknesses}{19}% 
+\contentsline {subsection}{\numberline {5.1}Strengths}{19}% 
+\contentsline {subsection}{\numberline {5.2}Weaknesses}{20}% 
+\contentsline {section}{\numberline {6}conclusion}{20}% 
+\contentsline {section}{Memo}{21}% 
+\contentsline {section}{References}{23}% 

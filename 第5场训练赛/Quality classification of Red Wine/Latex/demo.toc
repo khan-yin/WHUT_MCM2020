@@ -1,0 +1,43 @@
+\contentsline {section}{\numberline {一、}问题重述}{3}{section.1}% 
+\contentsline {subsection}{\numberline {1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}问题背景}{3}{subsection.1.1}% 
+\contentsline {subsection}{\numberline {1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}待解决的问题}{3}{subsection.1.2}% 
+\contentsline {section}{\numberline {二、}模型假设}{4}{section.2}% 
+\contentsline {section}{\numberline {三、}符号说明}{4}{section.3}% 
+\contentsline {section}{\numberline {四、}问题一模型的建立与求解}{5}{section.4}% 
+\contentsline {subsection}{\numberline {4\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}数据预处理}{5}{subsection.4.1}% 
+\contentsline {subsubsection}{\numberline {4\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}缺失值处理}{5}{subsubsection.4.1.1}% 
+\contentsline {subsubsection}{\numberline {4\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}数据归一化处理}{5}{subsubsection.4.1.2}% 
+\contentsline {subsubsection}{\numberline {4\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}数据分布}{5}{subsubsection.4.1.3}% 
+\contentsline {subsection}{\numberline {4\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}问题分析}{6}{subsection.4.2}% 
+\contentsline {subsection}{\numberline {4\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}xgboost集成决策树红酒分类模型}{7}{subsection.4.3}% 
+\contentsline {subsubsection}{\numberline {4\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}梯度提升法多决策树系统构建}{7}{subsubsection.4.3.1}% 
+\contentsline {subsubsection}{\numberline {4\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}交叉熵损失函数}{7}{subsubsection.4.3.2}% 
+\contentsline {subsubsection}{\numberline {4\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}模型复杂度惩罚项}{8}{subsubsection.4.3.3}% 
+\contentsline {subsubsection}{\numberline {4\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}4}优化目标函数}{8}{subsubsection.4.3.4}% 
+\contentsline {subsection}{\numberline {4\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}4}模型求解}{9}{subsection.4.4}% 
+\contentsline {subsubsection}{\numberline {4\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}4\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}最佳分割点搜索算法}{9}{subsubsection.4.4.1}% 
+\contentsline {subsection}{\numberline {4\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}5}结果分析}{10}{subsection.4.5}% 
+\contentsline {subsubsection}{\numberline {4\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}xgboost分类结构}{10}{subsubsection.4.5.1}% 
+\contentsline {subsubsection}{\numberline {4\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}分类性能}{10}{subsubsection.4.5.2}% 
+\contentsline {section}{\numberline {五、}问题二模型的建立与求解}{11}{section.5}% 
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}问题分析}{11}{subsection.5.1}% 
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}红酒品质影响指标模型的建立}{12}{subsection.5.2}% 
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}模型求解与分析}{13}{subsection.5.3}% 
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}相关性分析}{13}{subsubsection.5.3.1}% 
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}指标选择}{13}{subsubsection.5.3.2}% 
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}待预测集品质预测}{15}{subsubsection.5.3.3}% 
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}4}灵敏度分析}{15}{subsection.5.4}% 
+\contentsline {section}{\numberline {六、}问题三模型的建立与求解}{16}{section.6}% 
+\contentsline {subsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}问题分析}{16}{subsection.6.1}% 
+\contentsline {subsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}上采样技术与贝叶斯优化器改进的xgboost红酒分类模型}{16}{subsection.6.2}% 
+\contentsline {subsubsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}合成少数类过采样技术}{16}{subsubsection.6.2.1}% 
+\contentsline {subsubsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}贝叶斯参数调优}{17}{subsubsection.6.2.2}% 
+\contentsline {subsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}结果分析}{19}{subsection.6.3}% 
+\contentsline {subsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}4}灵敏度分析}{20}{subsection.6.4}% 
+\contentsline {section}{\numberline {七、}模型评价}{21}{section.7}% 
+\contentsline {subsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}模型的优点}{21}{subsection.7.1}% 
+\contentsline {subsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}模型的缺点}{22}{subsection.7.2}% 
+\contentsline {subsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}改进与展望}{22}{subsection.7.3}% 
+\contentsline {section}{\numberline {附录A}代码}{23}{appendix.A}% 
+\contentsline {subsection}{\numberline {A.1}python源程序}{23}{subsection.A.1}% 
+\contentsfinish 

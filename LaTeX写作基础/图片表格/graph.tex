@@ -1,0 +1,18 @@
+\documentclass{ctexart}
+\usepackage{graphicx}
+\graphicspath{{figures/}，{pics/}} %图片在当前目录下的figures目录,还可以继续添加其他搜索路径
+\usepackage{caption2}%修改图注相关
+\usepackage{subfigure}%用来插入插入并列分布的图片
+\usepackage{float}%确定图片是否为浮动，而不是在一个固定的地方。
+\renewcommand{\figurename}{图.}
+\renewcommand{\captionlabeldelim}{ }
+
+\begin{document}
+	\LaTeX{} 中的插图
+	\begin{figure}[h] %figure环境，h默认参数是可以浮动，不是固定在当前位置。如果要不浮动，你就可以使用大写float宏包的H参数，固定图片在当前位置，禁止浮动。
+		\centering %使图片居中显示
+		\includegraphics[width=1\textwidth]{whut} %中括号中的参数是设置图片充满文档的大小，你也可以使用小数来缩小图片的尺寸。
+		\caption{标题} %caption是用来给图片加上图题的
+		\label{whut} %这是添加标签，方便在文章中引用图片。
+	\end{figure}%figure环境
+\end{document}

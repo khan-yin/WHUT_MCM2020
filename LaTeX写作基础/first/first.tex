@@ -1,0 +1,24 @@
+%导言区(全局设置)
+\documentclass{ctexart}%ctexbook,ctexreport
+
+\usepackage{ctex}%引入中文包
+\newcommand{\degree}{^\circ}
+\title{\heiti 第一个latex}%指定字体
+\author{\kaishu 尹可汗 }
+\date{\today}
+
+
+%正文区
+\begin{document}
+	\maketitle
+	
+	Hello World! 
+	勾股定理：
+	设直角三角形$ABC$,其中有$\angle C=90\degree$
+	
+	math$f(x)=3x^2+x+1$
+	$$f(x)=3x^2+x+1$$
+	\begin{equation}%插入带编号的公式
+		AB^2=BC^2+AC^2
+	\end{equation}
+\end{document}

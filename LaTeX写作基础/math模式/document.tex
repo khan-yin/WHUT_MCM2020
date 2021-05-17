@@ -1,0 +1,167 @@
+\documentclass{ctexart}
+\usepackage{ctex}
+\usepackage{amsmath}%添加矩阵宏包
+\usepackage{amssymb}
+\usepackage{mathdots}
+\begin{document}
+	\begin{equation}
+		(a+b)=(b+a)
+	\end{equation}
+	\section{希腊字母}
+	$\alpha$
+	
+	$\beta$
+	
+	$\gamma$
+	
+	$\Gamma$
+	
+	$\Delta$
+	
+	$\Theta$
+	
+	$\Pi$
+	
+	$\Omega$
+	
+	$\alpha^3+\beta^2+\gamma^2$
+	
+	\[
+	%无括号
+	\begin{matrix}
+		0 & 1\\
+		1 & 0
+	\end{matrix} \qquad
+	%小括号
+	\begin{pmatrix}
+		0 & 1\\
+		1 & 0
+	\end{pmatrix} \qquad
+	%中括号
+	\begin{bmatrix}
+		0 & 1\\
+		1 & 0
+	\end{bmatrix} \qquad
+	%大括号
+	\begin{Bmatrix}
+	0 & 1\\
+	1 & 0
+	\end{Bmatrix} \qquad
+	%单竖线
+	\begin{vmatrix}
+	0 & 1\\
+	1 & 0
+	\end{vmatrix} \qquad
+	%双竖线
+	\begin{Vmatrix}
+	0 & 1\\
+	1 & 0
+	\end{Vmatrix} \qquad
+	\]
+	%括号上下标
+	\[
+	\begin{pmatrix}
+		a_{11}^2 & a_{12}^2 & a_{13}^2\\
+		0 & a_{22}^2 & a_{23}^2 \\
+		0 & 0 & a_{33}^2
+	\end{pmatrix}
+	\]
+	%省略号 \dots行省略 \vdots列省略 \ddots斜对角省略 \iddots反对角省略需要引入mathdots宏包
+	\[
+		A=\begin{bmatrix}
+			a_{11} & \dots & a_{1n} \\
+			\iddots & \ddots & \vdots \\
+			0 & & a_{nn}
+		\end{bmatrix}_{n \times n}
+	\]
+	
+	%分块矩阵排版
+	\[
+		\begin{pmatrix}
+		\begin{matrix}
+			1&0 \\
+			0&1
+		\end{matrix} & \text{\Large 0} \\
+		0 & \begin{matrix}
+			1&0 \\
+			0&1
+		\end{matrix}
+		\end{pmatrix}
+	\]
+	
+	%三角矩阵
+	\[
+	\begin{pmatrix}
+	a_{11} & a_{12} & \dots & a_{1n} \\
+	&a_{22} & \dots & a_{2n} \\
+	&  & \ddots & \vdots \\
+	\multicolumn{2}{c}{\raisebox{1.3ex}[0 pt]{\Large 0}}	
+	& &a_{nn}
+	\end{pmatrix}
+	\]
+	
+	%跨列省略号：\hdotsfor{columns}
+	\[
+	\begin{pmatrix}
+	1 & \frac{1}{2} & \dots & \frac{1}{n} \\
+	\hdotsfor{4} \\
+	m & \frac{m}{2} & \dots & \frac{m}{n}
+	\end{pmatrix}_{m \times n}
+	\]
+	
+	%行内小矩阵smallmatrix
+	复数 $Z=(x,y)$ 也可以用矩阵
+	\begin{math}
+		\left(
+		\begin{smallmatrix}
+		x& -y \\ y & x
+		\end{smallmatrix} 
+		\right) 
+	\end{math}
+	
+	%array环境
+	\[
+	\begin{array}{r|r}
+		\frac{1}{2} & 0 \\
+		2 & \frac{x}{y}
+	\end{array}
+	\]
+	
+	%gather和gather*环境（可以使用\\换行）
+	%带编号
+	\begin{gather}
+		a+\alpha=\frac{s}{y}+1 \\
+		g+d=f(a)\\
+	\end{gather}
+	
+	%align和align*环境(用&符号对齐)
+	\begin{align}
+		x&=t+\cos t + 1 \\
+		y&=2\sin t
+	\end{align}
+	
+	\begin{align*}
+	x &= t & x &=\cos t & x &= t \\
+	y &=2t & y &=\sin (t+1) & y &= \sin t
+	\end{align*}
+	
+	
+	%split环境 (对齐采用align环境的方式，编号在中间)
+	\begin{equation}
+		\begin{split}
+		\cos 2x &= \cos^2 x - \sin^2 x\\
+		&= x\cos^2 x - 1
+		\end{split}
+	\end{equation}	
+	
+	%cases环境，主要解决分段函数
+	%每行公式用& 符号将其分成两个部分
+	%通常表示前面的公式已经后面的条件
+	\begin{equation}
+	D(x)= \begin{cases}
+		1, &\text{如果} x \in \mathbb{Q}\\
+		0, &if x \in \mathbb{R}\setminus\mathbb{Q}
+	\end{cases}
+	\end{equation}
+	
+\end{document}

@@ -1,0 +1,43 @@
+\documentclass{article}
+\usepackage{ctex}
+
+\newcommand{\myfont}{\heiti\zihao{4}}
+
+\begin{document}
+	%字体簇设置(罗马字体，无衬线字体，打字机字体)
+	\textrm{Roman Family} \textsf{Sans Serif Family} \texttt{Typewritter Family}
+	
+	{\rmfamily Roman Family} {\sffamily Sans Serif Family} {\ttfamily Typewritter Family}
+	
+	{\rmfamily ssssssssssssssdada}
+	
+	%字体形状（直立，斜体，伪斜体，小型大写）
+	\textup{Upright Shape} \textit{Italic Shape}
+	\textsl{Slanted Shape} \textsc{Small Caps Shape}
+	
+	{\upshape Upright Shape} {\itshape Italic Shape}
+	{\slshape Slanted} {\scshape Small Caps Shape}
+	
+	%中文字体学习
+	{\songti 宋体}\quad      {\heiti 黑体}\quad {\fangsong 仿宋}
+	\quad{\kaishu 楷体}
+	
+	中文的\textbf{粗体}与\textit{斜体}
+	%中文当中粗体是黑体表示的，斜体是楷书表示的
+	%字体大小以全局documentclass的模板为标准normalsize
+	{\tiny Hello}\\
+	{\scriptsize Hello}\\
+	{\footnotesize Hello}\\
+	{\small Hello}\\
+	{\normalsize Hello}\\
+	{\large Hello}\\
+	{\Large Hello}\\
+	{\LARGE Hello}\\
+	{\huge Hello}\\
+	{\Huge Hello}\\
+	%设置中文字号
+	\zihao{4}你好 \\%四号
+	\zihao{-4}你好\\ %小四
+	\myfont 你好 
+	
+\end{document}

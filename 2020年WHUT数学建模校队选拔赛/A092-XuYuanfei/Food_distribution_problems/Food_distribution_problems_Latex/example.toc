@@ -1,0 +1,28 @@
+\contentsline {section}{\numberline {一、}介绍}{2}{section.1}% 
+\contentsline {subsection}{\numberline {1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}背景介绍}{2}{subsection.1.1}% 
+\contentsline {subsection}{\numberline {1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}问题重述}{2}{subsection.1.2}% 
+\contentsline {section}{\numberline {二、}前期工作与分析}{3}{section.2}% 
+\contentsline {section}{\numberline {三、}基本假设}{4}{section.3}% 
+\contentsline {section}{\numberline {四、}符号定义与解释}{4}{section.4}% 
+\contentsline {section}{\numberline {五、}模型的建立与求解}{4}{section.5}% 
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}问题1}{4}{subsection.5.1}% 
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}蚁群算法模型的搭建}{4}{subsubsection.5.1.1}% 
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}蚁群算法模型的求解}{6}{subsubsection.5.1.2}% 
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}问题2}{8}{subsection.5.2}% 
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}概述}{8}{subsubsection.5.2.1}% 
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}划分方案}{9}{subsubsection.5.2.2}% 
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}模型的求解}{9}{subsubsection.5.2.3}% 
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}问题3}{12}{subsection.5.3}% 
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}概述}{12}{subsubsection.5.3.1}% 
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}划分方案}{12}{subsubsection.5.3.2}% 
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}模型的求解}{13}{subsubsection.5.3.3}% 
+\contentsline {section}{\numberline {六、}模型优缺点}{14}{section.6}% 
+\contentsline {subsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}模型的优点}{14}{subsection.6.1}% 
+\contentsline {subsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}模型的不足}{14}{subsection.6.2}% 
+\contentsline {section}{\numberline {七、}总结与改进}{14}{section.7}% 
+\contentsline {subsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}建模过程总结}{14}{subsection.7.1}% 
+\contentsline {subsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}未来改进方向}{14}{subsection.7.2}% 
+\contentsline {section}{\numberline {八、}参考文献}{15}{section.8}% 
+\contentsline {section}{附录 \numberline {A}PYTHON 源程序}{15}{附录.a.A}% 
+\contentsline {subsection}{\numberline {1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}蚁群算法主体}{15}{subsection.a.A.1}% 
+\contentsline {subsection}{\numberline {1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}路径，和蚂蚁类}{18}{subsection.a.A.2}% 

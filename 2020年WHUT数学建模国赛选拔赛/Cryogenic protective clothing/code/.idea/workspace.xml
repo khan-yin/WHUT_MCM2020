@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39ab7e90-c36b-4e27-b865-21a3b02b5d80" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="62701b7c-ae9e-4e84-893f-cc803cd6ca90" />
+  <component name="ProjectId" id="1gFrgETND48xzdkBBlihSDEjzmU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/artemis_pde1.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\programs\Python\math_modeling\Cryogenic protective clothing\code" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\programs\Python\math_modeling\COVID-19 analysis\code" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test_heatequation">
+    <configuration name="ConvectinDiffusionReactionFEMwithDirichletBC2d_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/dlpy36/Lib/site-packages/fealpy/example" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/dlpy36/Lib/site-packages/fealpy/example/ConvectinDiffusionReactionFEMwithDirichletBC2d_example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="artemis_pde" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Hawee\AppData\Local\Continuum\anaconda3\envs\dlpy36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/artemis_pde.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="artemis_pde1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Hawee\AppData\Local\Continuum\anaconda3\envs\dlpy36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/artemis_pde1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="heat_pde" type="PythonConfigurationType" factoryName="Python" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/heat_pde.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plot" type="PythonConfigurationType" factoryName="Python" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sensitivity" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sensitivity.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="solve_pde" type="PythonConfigurationType" factoryName="Python" singleton="false" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Hawee\AppData\Local\Continuum\anaconda3\envs\dlpy36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solve_pde.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="solve_scipy" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Hawee\AppData\Local\Continuum\anaconda3\envs\dlpy36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solve_scipy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_heatequation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/dlpy36/Lib/site-packages/fealpy/app/TEM" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/dlpy36/Lib/site-packages/fealpy/app/TEM/test_heatequation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.artemis_pde1" />
+      <item itemvalue="Python.artemis_pde" />
+      <item itemvalue="Python.solve_pde" />
+      <item itemvalue="Python.solve_scipy" />
+      <item itemvalue="Python.sensitivity" />
+      <item itemvalue="Python.heat_pde" />
+      <item itemvalue="Python.plot" />
+      <item itemvalue="Python.ConvectinDiffusionReactionFEMwithDirichletBC2d_example" />
+      <item itemvalue="Python.test_heatequation" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_heatequation" />
+        <item itemvalue="Python.ConvectinDiffusionReactionFEMwithDirichletBC2d_example" />
+        <item itemvalue="Python.heat_pde" />
+        <item itemvalue="Python.plot" />
+        <item itemvalue="Python.sensitivity" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39ab7e90-c36b-4e27-b865-21a3b02b5d80" name="默认更改列表" comment="" />
+      <created>1597721290021</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597721290021</updated>
+      <workItem from="1597721295601" duration="390000" />
+      <workItem from="1597721853606" duration="44736000" />
+      <workItem from="1597777226150" duration="1069000" />
+      <workItem from="1597778565347" duration="1735000" />
+      <workItem from="1597780311404" duration="5422000" />
+      <workItem from="1597802035025" duration="24195000" />
+      <workItem from="1598362500845" duration="31601000" />
+      <workItem from="1598437715073" duration="13286000" />
+      <workItem from="1598456264296" duration="4266000" />
+      <workItem from="1598460548463" duration="88438000" />
+      <workItem from="1598714481607" duration="4953000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="135" y="103" key="#Notifications" timestamp="1598365980668">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="135" y="103" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1598365980668" />
+    <state x="34" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598599118737">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="34" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598599118737" />
+    <state x="391" y="209" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597745385934">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="391" y="209" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597745385934" />
+    <state x="1209" y="478" width="674" height="441" key="#xdebugger.evaluate" timestamp="1598582487021">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1209" y="478" width="674" height="441" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1598582487021" />
+    <state x="433" y="218" key="FileChooserDialogImpl" timestamp="1598496588248">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="433" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598496588248" />
+    <state width="1867" height="303" key="GridCell.Tab.0.bottom" timestamp="1598759639325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="303" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598759639325" />
+    <state width="1867" height="303" key="GridCell.Tab.0.center" timestamp="1598759639325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="303" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598759639325" />
+    <state width="1867" height="303" key="GridCell.Tab.0.left" timestamp="1598759639325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="303" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598759639325" />
+    <state width="1867" height="303" key="GridCell.Tab.0.right" timestamp="1598759639325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="303" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598759639325" />
+    <state width="1867" height="303" key="GridCell.Tab.1.bottom" timestamp="1598759639326">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="303" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598759639326" />
+    <state width="1867" height="303" key="GridCell.Tab.1.center" timestamp="1598759639326">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="303" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598759639326" />
+    <state width="1867" height="303" key="GridCell.Tab.1.left" timestamp="1598759639325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="303" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598759639325" />
+    <state width="1867" height="303" key="GridCell.Tab.1.right" timestamp="1598759639326">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="303" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598759639326" />
+    <state x="108" y="78" key="SettingsEditor" timestamp="1598465715431">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="108" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598465715431" />
+    <state width="1273" height="520" key="XDebugger.FullValuePopup" timestamp="1598599946854">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1273" height="520" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1598599946854" />
+    <state x="294" y="303" key="com.intellij.ide.util.TipDialog" timestamp="1598714533136">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="294" y="303" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598714533136" />
+    <state x="1043" y="0" width="893" height="1012" key="dock-window-1" timestamp="1598520360871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1043" y="0" width="893" height="1012" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1598520360871" />
+    <state x="1068" y="0" width="855" height="1047" key="dock-window-2" timestamp="1598596398489">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1068" y="0" width="855" height="1047" key="dock-window-2/0.0.1920.1040@0.0.1920.1040" timestamp="1598596398489" />
+    <state x="998" y="114" width="814" height="809" key="dock-window-3" timestamp="1597764416376">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="998" y="114" width="814" height="809" key="dock-window-3/0.0.1920.1040@0.0.1920.1040" timestamp="1597764416376" />
+    <state x="1036" y="74" width="984" height="1047" key="dock-window-4" timestamp="1597800131720">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1036" y="74" width="984" height="1047" key="dock-window-4/0.0.1920.1040@0.0.1920.1040" timestamp="1597800131720" />
+    <state x="70" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1598506381751">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="70" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598506381751" />
+    <state x="338" y="429" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1598496187332">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="338" y="429" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598496187332" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../charging route planning/attention-learn-to-route-master/plot_vrp.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/heat_pde.py</url>
+          <line>195</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/dlpy36/Lib/site-packages/fealpy/app/TEM/test_heatequation.py</url>
+          <line>84</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="Tin" />
+        <watch expression="bestParametersDict" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/code$objective.coverage" NAME="solve_julia Coverage Results" MODIFIED="1597729816237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code$solve_pde.coverage" NAME="solve_pde Coverage Results" MODIFIED="1598496083156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code$common.coverage" NAME="common Coverage Results" MODIFIED="1597850339570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code$solve_scipy.coverage" NAME="solve_scipy Coverage Results" MODIFIED="1597882901498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code$ConvectinDiffusionReactionFEMwithDirichletBC2d_example.coverage" NAME="ConvectinDiffusionReactionFEMwithDirichletBC2d_example Coverage Results" MODIFIED="1598715175317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/dlpy36/Lib/site-packages/fealpy/example" />
+    <SUITE FILE_PATH="coverage/code$sensitivity.coverage" NAME="sensitivity Coverage Results" MODIFIED="1597889047342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code$artemis_pde1.coverage" NAME="artemis_pde1 Coverage Results" MODIFIED="1598496602245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code$test.coverage" NAME="test Coverage Results" MODIFIED="1597778715336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code$read_data.coverage" NAME="read_data Coverage Results" MODIFIED="1597886790967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code$pytest_in_artemis_pde1_py.coverage" NAME="pytest in artemis_pde1.py Coverage Results" MODIFIED="1598496554750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code$plot.coverage" NAME="plot Coverage Results" MODIFIED="1598600862808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code$pytest_in_solve_pde_py.coverage" NAME="pytest in solve_pde.py Coverage Results" MODIFIED="1598363923442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code$pytest_in_solve_scipy_py.coverage" NAME="pytest in solve_scipy.py Coverage Results" MODIFIED="1597730215587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code$main.coverage" NAME="main Coverage Results" MODIFIED="1597850154405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code$artemis_pde.coverage" NAME="artemis_pde Coverage Results" MODIFIED="1598503000198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code$test_heatequation.coverage" NAME="test_heatequation Coverage Results" MODIFIED="1598759593037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/dlpy36/Lib/site-packages/fealpy/app/TEM" />
+    <SUITE FILE_PATH="coverage/code$pytest_in_artemis_pde_py.coverage" NAME="pytest in artemis_pde.py Coverage Results" MODIFIED="1598433921226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code$heat_pde.coverage" NAME="heat_pde Coverage Results" MODIFIED="1598603171990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

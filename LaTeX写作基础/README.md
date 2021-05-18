@@ -1,2 +1,2 @@
 # latexstudy-compete_issue
-## latex学习和训练赛论文
+## latex基础用法学习

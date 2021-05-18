@@ -20,4 +20,4 @@
 - 数学建模是需要一些运气的，把该做的事情做好，提升自己的水平，结果至少不会太差，也许下个幸运儿就是你！
 
 ## Thanks for Star or Fork the repository
-if you have any problem,please contact us or raise an issue 
+>if you have any problem,please contact us or raise an issue 

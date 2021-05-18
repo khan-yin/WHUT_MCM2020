@@ -19,5 +19,5 @@
 - 数学建模的比赛套路很多，训练是有必要的，但不建议参加过多（保持身心健康和学习热情很重要），思考不要太局限于旧事物的思考方式和教学，也要多接触新技术和问题的思考方式，要有自己的一套解题标准，合适的就是最好的。
 - 数学建模是需要一些运气的，把该做的事情做好，提升自己的水平，结果至少不会太差，也许下个幸运儿就是你！
 
-## Thanks for Star or Fork it
+## Thanks for Star or Fork the repository
 if you have any problem,please contact us or raise an issue 

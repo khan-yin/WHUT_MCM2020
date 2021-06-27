@@ -9,6 +9,7 @@
 - 2021年美国大学生数学建模F奖
 - 基本算法和数据可视化学习
 - LaTeX写作基础和[武汉理工大学数学建模培训LaTeX模板](https://github.com/Markhng/whutmod)
+- 项目制作缘由和灵感来源：[ZiChuan的数模之路](https://github.com/775269512/WHUT_CUMCM20)
 
 
 ## 感受与体会
